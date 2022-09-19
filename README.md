@@ -67,7 +67,7 @@ Then I got to know a bit of HTML and CSS, and I was like "Maybe that's it, maybe
 
 <hr>
 
-### Github stats
+### GitHub stats
 
 <div align="center">  
 
