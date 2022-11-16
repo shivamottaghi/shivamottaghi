@@ -13,7 +13,7 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
-I am a computer engineer graduate, currently working on my web development skills in an awesome organization called 🔥[BeCode](https://github.com/becodeorg)!
+I am a computer engineer graduate, Just finished a full-stack development course in an awesome organization called 🔥[BeCode](https://github.com/becodeorg)!
 
 
 As I can remember, I always wanted to become a programmer, but IT world seemed vast and infinite in my eyes, there were a lot of fields
