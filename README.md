@@ -13,7 +13,7 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
-I am a computer engineer graduate, working as a junior full stack developer at [Blue Planet Academy & Consulting 🔥](https://www.blue-planet.be)!
+I am a computer engineering graduate, working as a junior full stack developer at [Blue Planet Academy & Consulting 🔥](https://www.blue-planet.be)!
 
 
 As I can remember, I always wanted to become a programmer, but IT world seemed vast and infinite in my eyes, there were a lot of fields
