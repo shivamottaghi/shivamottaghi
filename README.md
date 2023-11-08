@@ -15,13 +15,6 @@ Here are some ideas to get you started:
 -->
 I am a computer engineering graduate, working as a junior full stack developer at [Blue Planet Academy & Consulting 🔥](https://www.blue-planet.be)!
 
-
-As I can remember, I always wanted to become a programmer, but IT world seemed vast and infinite in my eyes, there were a lot of fields
-to be discovered. 
-I loved Java when I studied it for one semester in university, I enjoyed working with relational DataBases too. Networking was 
-a NO to me.
-Then I got to know a bit of HTML and CSS, and I was like "Maybe that's it, maybe I wanna be a web developer!".
-
 <hr>
 
 ### Connect with me
