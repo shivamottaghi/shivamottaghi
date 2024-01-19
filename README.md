@@ -64,7 +64,7 @@ I am a computer engineering graduate, working as a junior full stack developer a
 <div align="center">  
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=shivamottaghi&langs_count=8&layout=compact&theme=radical)](https://github.com/anuraghazra/github-readme-stats)
-
+<!--
 [![Shiva's GitHub stats](https://github-readme-stats.vercel.app/api?username=shivamottaghi&show_icons=true&theme=radical)](https://github.com/anuraghazra/github-readme-stats)
-
+-->
 </div>
