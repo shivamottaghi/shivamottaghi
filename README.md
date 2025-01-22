@@ -54,17 +54,19 @@ I am a computer engineering graduate, working as a junior full stack developer a
 <a href="https://www.mysql.com/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/mysql-original-wordmark.svg" alt="MySQL" height="50" /></a>  
 <a href="https://www.postgresql.org/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/postgresql-original-wordmark.svg" alt="PostgreSQL" height="50" /></a>  
 <a href="https://symfony.com/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/symfony_black_03.svg" alt="Symfony" height="50" /></a>  
-<a href="https://www.apachefriends.org/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/xampp.png" alt="XAMPP" height="50" /></a>  
+<a href="https://www.apachefriends.org/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/xampp.png" alt="XAMPP" height="50" /></a>
+<a href="https://rubyonrails.org/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/rails-original-wordmark.svg" alt="Ruby on Rails" height="50"></a>
 </div>
 
 <hr>
-
-### GitHub stats
-
-<div align="center">  
-
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=shivamottaghi&langs_count=8&layout=compact&theme=radical)](https://github.com/anuraghazra/github-readme-stats)
 <!--
-[![Shiva's GitHub stats](https://github-readme-stats.vercel.app/api?username=shivamottaghi&show_icons=true&theme=radical)](https://github.com/anuraghazra/github-readme-stats)
+### GitHub stats
 -->
+<!--
+<div align="center">  
+-->
+<!--
+[![Top Langs](https://github-readme-stats.vercel.app/api?username=shivamottaghi&layout=compact&theme=radical&hide=stars,issues,contribs)](https://github.com/anuraghazra/github-readme-stats)
+[![Shiva's GitHub stats](https://github-readme-stats.vercel.app/api?username=shivamottaghi&show_icons=true&theme=radical)](https://github.com/anuraghazra/github-readme-stats)
 </div>
+-->
